@@ -58,5 +58,18 @@
          ],
          "absoluteVersion":"134.0"
       }
-   ]
+   ],
+  "news": [
+     {
+      "appID": "com.hammerandchisel.discord",
+      "caption": "Now available for download.",
+      "date": "2022-09-15",
+      "identifier": "Discord-OLED",
+      "imageURL": "https://github.com/QuanTrieuPCYT/AltRepo/raw/main/discord_oled/discord_oled_banner.png",
+      "notify": false,
+      "tintColor": "3b3b3b",
+      "title": "Discord with OLED Dark Mode",
+      "url": "https://cdn.discordapp.com/attachments/914707505135890453/1019653386402025502/Discord_134.0.ipa"
+    }
+  ]
 }
